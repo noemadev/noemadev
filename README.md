@@ -1,16 +1,56 @@
-## Hi there 👋
+```txt
+noemdev
 
-<!--
-**noemadev/noemadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer. System builder.
 
-Here are some ideas to get you started:
+Maintainer of Noema Protocol — an experimental system
+for autonomous AI agents and composable intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No roadmap.
+No promises.
+Just work.
+
+ABOUT
+-----
+This profile documents ongoing work on Noema Protocol
+and related experimental systems.
+
+The focus is on correctness, architecture, and execution,
+not presentation.
+
+NOEMA PROTOCOL
+--------------
+Noema is a low-level protocol for constructing intelligent
+agents that can reason, act, and evolve across environments.
+
+It prioritizes composability, determinism, and extensibility.
+
+AREAS OF WORK
+-------------
+- autonomous agents
+- agent runtimes
+- cognitive systems
+- memory layers
+- execution pipelines
+- onchain / offchain coordination
+
+DESIGN NOTES
+------------
+- systems before features
+- architecture over abstraction
+- utility over visibility
+- break things only when necessary
+
+STATUS
+------
+active development
+interfaces may change
+no stability guarantees
+
+CONTACT
+-------
+github : https://github.com/noemdev
+x      : @Noema_Protocol
+
+"talk is cheap. show the system."
+
